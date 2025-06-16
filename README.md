@@ -15,7 +15,7 @@ watched_enriched.csv – TMDb-enriched dataset with genre, runtime, director, an
 
 README.md – Project overview and setup guide.
 
-Screenshots - graphs from project
+Screenshots - Graphs from project
 
 
 🧠 Key Features
