@@ -1,0 +1,364 @@
+Name,Year,tmdb_id,genres,release_year,director,runtime,countries
+Little Women,2019,331482,"['Drama', 'Romance', 'History']",2019,Greta Gerwig,135,['US']
+The Perks of Being a Wallflower,2012,84892,['Drama'],2012,Stephen Chbosky,103,['US']
+Harry Potter and the Prisoner of Azkaban,2004,673,"['Adventure', 'Fantasy']",2004,Alfonso Cuarón,141,"['GB', 'US']"
+Harry Potter and the Philosopher's Stone,2001,671,"['Adventure', 'Fantasy']",2001,Chris Columbus,152,"['GB', 'US']"
+Harry Potter and the Goblet of Fire,2005,674,"['Adventure', 'Fantasy']",2005,Mike Newell,157,"['GB', 'US']"
+Harry Potter and the Chamber of Secrets,2002,672,"['Adventure', 'Fantasy']",2002,Chris Columbus,161,"['GB', 'US', 'DE']"
+Harry Potter and the Deathly Hallows: Part 2,2011,12445,"['Fantasy', 'Adventure']",2011,David Yates,130,"['GB', 'US']"
+Harry Potter and the Order of the Phoenix,2007,675,"['Adventure', 'Fantasy']",2007,David Yates,138,"['GB', 'US']"
+Harry Potter and the Half-Blood Prince,2009,767,"['Adventure', 'Fantasy']",2009,David Yates,153,"['GB', 'US']"
+Harry Potter and the Deathly Hallows: Part 1,2010,12444,"['Adventure', 'Fantasy']",2010,David Yates,146,"['GB', 'US']"
+Beauty and the Beast,2017,321612,"['Family', 'Fantasy', 'Romance']",2017,Bill Condon,129,['US']
+The Bling Ring,2013,96936,"['Drama', 'Crime']",2013,Sofia Coppola,90,['US']
+The Circle,2017,339988,"['Drama', 'Thriller', 'Science Fiction']",2017,James Ponsoldt,110,"['AE', 'US']"
+Colonia,2015,318781,"['Drama', 'History']",2015,Florian Gallenberger,106,"['DE', 'FR', 'LU', 'GB']"
+The Tale of Despereaux,2008,10199,"['Adventure', 'Animation', 'Family']",2008,Robert Stevenhagen,93,"['GB', 'US']"
+Ballet Shoes,2007,20497,"['Drama', 'Family']",2008,Sandra Goldbacher,85,['GB']
+May December,2023,839369,['Drama'],2023,Todd Haynes,117,['US']
+Anyone But You,2023,1072790,"['Romance', 'Comedy']",2023,Will Gluck,103,['US']
+Barbie,2023,346698,"['Comedy', 'Adventure']",2023,Greta Gerwig,114,"['GB', 'US']"
+Bottoms,2023,814776,['Comedy'],2023,Emma Seligman,91,['US']
+The Hunger Games: The Ballad of Songbirds & Snakes,2023,695721,"['Drama', 'Science Fiction', 'Adventure', 'Action']",2023,Francis Lawrence,157,"['DE', 'US']"
+How to Lose a Guy in 10 Days,2003,9919,"['Comedy', 'Romance']",2003,Donald Petrie,116,['US']
+10 Things I Hate About You,1999,4951,"['Comedy', 'Romance', 'Drama']",1999,Gil Junger,97,['US']
+The Parent Trap,1998,9820,"['Comedy', 'Family', 'Romance']",1998,Nancy Meyers,128,['US']
+Mean Girls,2004,10625,"['Drama', 'Comedy']",2004,Mark Waters,97,['US']
+Freaky Friday,2003,10330,"['Family', 'Fantasy', 'Comedy']",2003,Mark Waters,96,['US']
+Legally Blonde,2001,8835,"['Comedy', 'Romance']",2001,Robert Luketic,96,['US']
+To All the Boys I've Loved Before,2018,466282,"['Comedy', 'Romance']",2018,Susan Johnson,100,['US']
+Clueless,1995,9603,"['Comedy', 'Romance']",1995,Amy Heckerling,97,['US']
+Serendipity,2001,9778,"['Comedy', 'Romance']",2001,Peter Chelsom,90,"['US', 'IN']"
+The Polar Express,2004,5255,"['Animation', 'Adventure', 'Family', 'Fantasy']",2004,Robert Zemeckis,100,['US']
+Pulp Fiction,1994,680,"['Thriller', 'Crime']",1994,Quentin Tarantino,154,['US']
+Fight Club,1999,550,['Drama'],1999,David Fincher,139,"['DE', 'US']"
+Titanic,1997,597,"['Drama', 'Romance']",1997,James Cameron,194,['US']
+The Wizard of Oz,1939,630,"['Adventure', 'Fantasy', 'Family']",1939,Victor Fleming,102,['US']
+Jojo Rabbit,2019,515001,"['Comedy', 'War', 'Drama']",2019,Taika Waititi,108,"['NZ', 'US']"
+Back to the Future,1985,105,"['Adventure', 'Comedy', 'Science Fiction']",1985,Robert Zemeckis,116,['US']
+Lady Bird,2017,391713,"['Drama', 'Comedy']",2017,Greta Gerwig,94,['US']
+Nights and Weekends,2008,48204,"['Drama', 'Romance']",2008,Joe Swanberg,80,['US']
+The Impossible,2012,80278,"['Drama', 'Thriller', 'History']",2012,J.A. Bayona,113,"['ES', 'US']"
+Spider-Man: Into the Spider-Verse,2018,324857,"['Animation', 'Action', 'Adventure', 'Science Fiction']",2018,Bob Persichetti,117,['US']
+Spider-Man: Across the Spider-Verse,2023,569094,"['Animation', 'Action', 'Adventure', 'Science Fiction']",2023,Justin K. Thompson,140,['US']
+Spider-Man: Homecoming,2017,315635,"['Action', 'Adventure', 'Science Fiction', 'Drama']",2017,Jon Watts,133,['US']
+Spider-Man: Far From Home,2019,429617,"['Action', 'Adventure', 'Science Fiction']",2019,Jon Watts,129,['US']
+Spider-Man: No Way Home,2021,634649,"['Action', 'Adventure', 'Science Fiction']",2021,Jon Watts,148,['US']
+Spider-Man,2002,557,"['Action', 'Science Fiction']",2002,Sam Raimi,121,['US']
+Halloween,1978,948,"['Horror', 'Thriller']",1978,John Carpenter,91,['US']
+Halloween,2018,948,"['Horror', 'Thriller']",1978,John Carpenter,91,['US']
+Halloween Kills,2021,610253,"['Horror', 'Thriller']",2021,David Gordon Green,105,['US']
+Halloween Ends,2022,616820,"['Horror', 'Thriller']",2022,David Gordon Green,111,['US']
+Thanksgiving,2023,1071215,"['Horror', 'Mystery']",2023,Eli Roth,106,['US']
+The Texas Chain Saw Massacre,1974,30497,['Horror'],1974,Tobe Hooper,83,['US']
+Friday the 13th,1980,4488,['Horror'],1980,Sean S. Cunningham,95,['US']
+Friday the 13th,2009,13207,"['Horror', 'Thriller']",2009,Marcus Nispel,97,['US']
+A Nightmare on Elm Street,1984,377,['Horror'],1984,Wes Craven,91,"['US', 'GB']"
+Scream,1996,4232,"['Crime', 'Horror', 'Mystery']",1996,Wes Craven,112,['US']
+Scream VI,2023,934433,"['Horror', 'Crime', 'Thriller']",2023,Matt Bettinelli-Olpin,123,['US']
+The Silence of the Lambs,1991,274,"['Crime', 'Drama', 'Thriller']",1991,Jonathan Demme,119,['US']
+Coraline,2009,14836,"['Animation', 'Family', 'Fantasy']",2009,Henry Selick,100,['US']
+Bolt,2008,13053,"['Animation', 'Family', 'Adventure', 'Comedy']",2008,Chris Williams,98,['US']
+Up,2009,14160,"['Animation', 'Comedy', 'Family', 'Adventure']",2009,Pete Docter,96,['US']
+Bodies Bodies Bodies,2022,520023,"['Horror', 'Comedy', 'Mystery']",2022,Halina Reijn,94,['US']
+Get Out,2017,419430,"['Mystery', 'Thriller', 'Horror']",2017,Jordan Peele,104,['US']
+Us,2019,458723,"['Horror', 'Mystery', 'Thriller']",2019,Jordan Peele,116,['US']
+Barbarian,2022,913290,"['Horror', 'Thriller']",2022,Zach Cregger,102,['US']
+Smile,2022,882598,"['Horror', 'Mystery']",2022,Parker Finn,115,['US']
+It Chapter Two,2019,474350,"['Horror', 'Thriller']",2019,Andy Muschietti,169,['US']
+It,2017,346364,"['Horror', 'Thriller']",2017,Andy Muschietti,135,['US']
+The Conjuring,2013,138843,"['Horror', 'Thriller']",2013,James Wan,112,['US']
+The Conjuring 2,2016,259693,['Horror'],2016,James Wan,134,['US']
+Insidious,2010,49018,"['Horror', 'Thriller']",2011,James Wan,102,"['CA', 'US']"
+Rebel Without a Cause,1955,221,['Drama'],1955,Nicholas Ray,111,['US']
+Ferris Bueller's Day Off,1986,9377,['Comedy'],1986,John Hughes,103,['US']
+The Edge of Seventeen,2016,376660,"['Comedy', 'Drama']",2016,Kelly Fremon Craig,105,"['US', 'CN']"
+The Outsiders,1983,227,"['Crime', 'Drama']",1983,Francis Ford Coppola,94,['US']
+Stand by Me,1986,235,"['Crime', 'Drama']",1986,Rob Reiner,89,['US']
+The Karate Kid,1984,1885,"['Action', 'Adventure', 'Drama', 'Family']",1984,John G. Avildsen,126,['US']
+Dirty Dancing,1987,88,"['Drama', 'Music', 'Romance']",1987,Emile Ardolino,100,['US']
+Point Break,1991,1089,"['Action', 'Thriller', 'Crime']",1991,Kathryn Bigelow,122,"['JP', 'US']"
+Divergent,2014,157350,"['Action', 'Adventure', 'Science Fiction']",2014,Neil Burger,139,['US']
+Insurgent,2015,262500,"['Action', 'Science Fiction', 'Thriller']",2015,Robert Schwentke,119,"['CA', 'US']"
+Allegiant,2016,262504,"['Adventure', 'Science Fiction', 'Action', 'Mystery']",2016,Robert Schwentke,120,['US']
+The Hunger Games,2012,70160,"['Science Fiction', 'Adventure', 'Action']",2012,Gary Ross,142,['US']
+The Hunger Games: Catching Fire,2013,101299,"['Adventure', 'Action', 'Science Fiction']",2013,Francis Lawrence,146,['US']
+The Hunger Games: Mockingjay – Part 1,2014,131631,"['Science Fiction', 'Adventure', 'Thriller']",2014,Francis Lawrence,123,['US']
+The Hunger Games: Mockingjay – Part 2,2015,131634,"['Action', 'Adventure', 'Science Fiction']",2015,Francis Lawrence,137,"['DE', 'US']"
+The Dark Knight,2008,155,"['Drama', 'Action', 'Crime', 'Thriller']",2008,Christopher Nolan,152,"['GB', 'US']"
+Wonder Woman,2017,297762,"['Action', 'Adventure', 'Fantasy']",2017,Patty Jenkins,141,['US']
+Crash,2004,1640,['Drama'],2005,Paul Haggis,112,"['US', 'DE']"
+Valentine's Day,2010,32856,"['Comedy', 'Romance']",2010,Garry Marshall,125,['US']
+Love Actually,2003,508,"['Comedy', 'Romance', 'Drama']",2003,Richard Curtis,135,"['FR', 'GB']"
+Wonder,2017,406997,"['Family', 'Drama']",2017,Stephen Chbosky,113,"['CA', 'HK', 'US']"
+Hidden Figures,2016,381284,"['Drama', 'History']",2016,Theodore Melfi,127,['US']
+Don't Worry Darling,2022,619730,"['Science Fiction', 'Mystery', 'Horror']",2022,Olivia Wilde,123,['US']
+The Kissing Booth,2018,454983,"['Romance', 'Comedy']",2018,Vince Marcello,105,['GB']
+To All the Boys: Always and Forever,2021,614409,"['Romance', 'Comedy', 'Drama']",2021,Michael Fimognari,115,['US']
+To All the Boys: P.S. I Still Love You,2020,565426,"['Romance', 'Comedy']",2020,Michael Fimognari,102,['US']
+Tall Girl,2019,625450,"['Comedy', 'Drama', 'Romance']",2019,Nzingha Stewart,101,['US']
+"Love, Simon",2018,449176,"['Comedy', 'Drama', 'Romance']",2018,Greg Berlanti,110,['US']
+The Kissing Booth 2,2020,583083,"['Comedy', 'Romance']",2020,Vince Marcello,132,['GB']
+No Hard Feelings,2023,884605,"['Comedy', 'Romance']",2023,Gene Stupnitsky,104,['US']
+Blockers,2018,437557,['Comedy'],2018,Kay Cannon,102,"['CN', 'JP', 'US']"
+Meet the Parents,2000,1597,"['Comedy', 'Romance']",2000,Jay Roach,108,['US']
+Zookeeper,2011,38317,"['Comedy', 'Romance', 'Family']",2011,Frank Coraci,102,['US']
+Furry Vengeance,2010,35169,"['Family', 'Comedy']",2010,Roger Kumble,92,['US']
+"Love, Rosie",2014,200727,"['Romance', 'Drama', 'Comedy']",2014,Christian Ditter,102,"['DE', 'GB']"
+My Best Friend's Wedding,1997,8874,"['Comedy', 'Romance']",1997,P.J. Hogan,105,['US']
+The Notebook,2004,11036,"['Romance', 'Drama']",2004,Nick Cassavetes,123,['US']
+Red Eye,2005,11460,"['Thriller', 'Mystery']",2005,Wes Craven,85,['US']
+The Family Stone,2005,9043,"['Comedy', 'Drama', 'Romance']",2005,Thomas Bezucha,103,['US']
+17 Again,2009,16996,"['Comedy', 'Fantasy', 'Drama', 'Romance']",2009,Burr Steers,102,['US']
+Silver Linings Playbook,2012,82693,"['Drama', 'Comedy', 'Romance']",2012,David O. Russell,122,['US']
+San Andreas,2015,254128,"['Action', 'Drama', 'Thriller']",2015,Brad Peyton,114,"['CA', 'US', 'AU']"
+Father of the Bride,1991,11846,"['Comedy', 'Romance']",1991,Charles Shyer,105,['US']
+Mean Girls,2024,10625,"['Drama', 'Comedy']",2004,Mark Waters,97,['US']
+Ratatouille,2007,2062,"['Animation', 'Comedy', 'Family', 'Fantasy']",2007,Brad Bird,111,['US']
+Ice Age,2002,425,"['Animation', 'Comedy', 'Family', 'Adventure']",2002,Chris Wedge,81,['US']
+How to Train Your Dragon,2010,10191,"['Fantasy', 'Adventure', 'Animation', 'Family']",2010,Chris Sanders,98,['US']
+Finding Nemo,2003,12,"['Animation', 'Family']",2003,Andrew Stanton,100,['US']
+Toy Story,1995,862,"['Animation', 'Adventure', 'Family', 'Comedy']",1995,John Lasseter,81,['US']
+Bee Movie,2007,5559,"['Family', 'Animation', 'Adventure', 'Comedy']",2007,Steve Hickner,91,['US']
+Soul,2020,508442,"['Animation', 'Family', 'Comedy', 'Fantasy']",2020,Pete Docter,101,['US']
+"Monsters, Inc.",2001,585,"['Animation', 'Comedy', 'Family']",2001,Pete Docter,92,['US']
+Finding Dory,2016,127380,"['Adventure', 'Animation', 'Comedy', 'Family']",2016,Andrew Stanton,97,['US']
+Toy Story 4,2019,301528,"['Family', 'Adventure', 'Animation', 'Comedy', 'Fantasy']",2019,Josh Cooley,100,['US']
+The Good Dinosaur,2015,105864,"['Adventure', 'Animation', 'Family']",2015,Peter Sohn,93,['US']
+Wreck-It Ralph,2012,82690,"['Family', 'Animation', 'Comedy', 'Adventure']",2012,Rich Moore,101,['US']
+Ice Age: The Meltdown,2006,950,"['Animation', 'Family', 'Comedy', 'Adventure']",2006,Carlos Saldanha,91,['US']
+Despicable Me 2,2013,93456,"['Animation', 'Comedy', 'Family']",2013,Pierre Coffin,98,['US']
+The Boss Baby,2017,295693,"['Animation', 'Comedy', 'Family']",2017,Tom McGrath,97,['US']
+Monsters University,2013,62211,"['Animation', 'Family']",2013,Dan Scanlon,104,['US']
+Cars,2006,920,"['Animation', 'Adventure', 'Comedy', 'Family']",2006,John Lasseter,117,['US']
+Raya and the Last Dragon,2021,527774,"['Animation', 'Family', 'Fantasy', 'Action', 'Adventure']",2021,Carlos López Estrada,107,['US']
+Kung Fu Panda,2008,9502,"['Action', 'Adventure', 'Animation', 'Family', 'Comedy']",2008,Mark Osborne,90,['US']
+Toy Story 3,2010,10193,"['Animation', 'Family', 'Comedy']",2010,Lee Unkrich,103,['US']
+Toy Story 2,1999,863,"['Animation', 'Comedy', 'Family']",1999,John Lasseter,92,['US']
+The Lego Movie,2014,137106,"['Animation', 'Family', 'Adventure', 'Comedy', 'Fantasy']",2014,Phil Lord,100,"['AU', 'DK', 'US']"
+The Incredibles,2004,9806,"['Action', 'Adventure', 'Animation', 'Family']",2004,Brad Bird,115,['US']
+Home,2015,228161,"['Fantasy', 'Comedy', 'Animation', 'Science Fiction', 'Family']",2015,Tim Johnson,94,['US']
+Incredibles 2,2018,260513,"['Action', 'Adventure', 'Animation', 'Family']",2018,Brad Bird,118,['US']
+Megamind,2010,38055,"['Animation', 'Action', 'Comedy', 'Family', 'Science Fiction']",2010,Tom McGrath,96,['US']
+Big Hero 6,2014,177572,"['Adventure', 'Family', 'Animation', 'Action', 'Comedy']",2014,Chris Williams,102,['US']
+The Lego Batman Movie,2017,324849,"['Animation', 'Action', 'Comedy', 'Family']",2017,Chris McKay,104,"['AU', 'DK', 'US']"
+How to Train Your Dragon 2,2014,82702,"['Fantasy', 'Action', 'Adventure', 'Animation', 'Comedy', 'Family']",2014,Dean DeBlois,102,['US']
+Ice Age: Dawn of the Dinosaurs,2009,8355,"['Animation', 'Comedy', 'Family', 'Adventure']",2009,Carlos Saldanha,94,['US']
+Ice Age: Continental Drift,2012,57800,"['Animation', 'Comedy', 'Adventure', 'Family']",2012,Steve Martino,88,['US']
+Ice Age: Collision Course,2016,278154,"['Adventure', 'Animation', 'Family', 'Comedy', 'Science Fiction']",2016,Mike Thurmeier,95,['US']
+The Croods,2013,49519,"['Animation', 'Adventure', 'Family', 'Fantasy', 'Comedy', 'Action']",2013,Chris Sanders,98,['US']
+The Secret Life of Pets,2016,328111,"['Family', 'Comedy', 'Adventure', 'Animation']",2016,Chris Renaud,86,['US']
+Meet the Robinsons,2007,1267,"['Animation', 'Comedy', 'Family']",2007,Stephen J. Anderson,95,['US']
+Bedtime Stories,2008,10202,"['Fantasy', 'Comedy', 'Family', 'Romance']",2008,Adam Shankman,99,['US']
+Spy Kids,2001,10054,"['Family', 'Action', 'Comedy', 'Adventure']",2001,Robert Rodriguez,88,['US']
+Spy Kids 3-D: Game Over,2003,12279,"['Family', 'Action', 'Comedy', 'Adventure', 'Science Fiction']",2003,Robert Rodriguez,84,['US']
+Spy Kids 2: The Island of Lost Dreams,2002,9488,"['Family', 'Action', 'Adventure', 'Comedy', 'Science Fiction']",2002,Robert Rodriguez,100,['US']
+Spy Kids: All the Time in the World,2011,56288,"['Family', 'Comedy', 'Action', 'Adventure', 'Drama', 'Fantasy', 'Science Fiction']",2011,Robert Rodriguez,89,['US']
+Pirates of the Caribbean: The Curse of the Black Pearl,2003,22,"['Adventure', 'Fantasy', 'Action']",2003,Gore Verbinski,143,['US']
+The Sound of Music,1965,15121,"['Drama', 'Family', 'Music', 'Romance']",1965,Robert Wise,174,['US']
+Mary Poppins Returns,2018,400650,"['Fantasy', 'Family', 'Comedy']",2018,Rob Marshall,131,['US']
+The Greatest Showman,2017,316029,['Drama'],2017,Michael Gracey,105,['US']
+Annie,2014,196867,"['Comedy', 'Drama', 'Family']",2014,Will Gluck,118,['US']
+La La Land,2016,313369,"['Comedy', 'Drama', 'Romance', 'Music']",2016,Damien Chazelle,129,['US']
+Scott Pilgrim vs. the World,2010,22538,"['Action', 'Comedy', 'Romance']",2010,Edgar Wright,113,"['JP', 'GB', 'US']"
+Inside Out 2,2024,1022789,"['Animation', 'Adventure', 'Comedy', 'Family']",2024,Kelsey Mann,97,['US']
+Challengers,2024,937287,"['Drama', 'Romance']",2024,Luca Guadagnino,132,"['IT', 'US']"
+The Idea of You,2024,843527,"['Romance', 'Drama', 'Comedy']",2024,Michael Showalter,116,['US']
+Slumdog Millionaire,2008,12405,"['Drama', 'Romance']",2008,Danny Boyle,120,['GB']
+Lion,2016,334543,['Drama'],2016,Garth Davis,118,"['AU', 'GB', 'US']"
+Inside Out,2015,150540,"['Animation', 'Family', 'Adventure', 'Drama', 'Comedy']",2015,Pete Docter,95,['US']
+Saltburn,2023,930564,"['Drama', 'Comedy', 'Thriller']",2023,Emerald Fennell,131,"['GB', 'US']"
+Nope,2022,762504,"['Horror', 'Science Fiction', 'Thriller']",2022,Jordan Peele,130,['US']
+Ocean's Eight,2018,402900,"['Crime', 'Comedy', 'Action']",2018,Gary Ross,111,['US']
+Forrest Gump,1994,13,"['Comedy', 'Drama', 'Romance']",1994,Robert Zemeckis,142,['US']
+Mr. & Mrs. Smith,2005,787,"['Action', 'Comedy', 'Drama', 'Thriller']",2005,Doug Liman,119,"['CH', 'US']"
+The Lion King,1994,8587,"['Family', 'Animation', 'Drama']",1994,Roger Allers,89,['US']
+Saving Private Ryan,1998,857,"['Drama', 'History', 'War']",1998,Steven Spielberg,169,['US']
+The Social Network,2010,37799,['Drama'],2010,David Fincher,121,['US']
+Oppenheimer,2023,872585,"['Drama', 'History']",2023,Christopher Nolan,181,"['GB', 'US']"
+Spotlight,2015,314365,"['Drama', 'History']",2015,Tom McCarthy,129,['US']
+American Sniper,2014,190859,"['War', 'Action']",2014,Clint Eastwood,133,['US']
+Misery,1990,1700,"['Drama', 'Thriller']",1990,Rob Reiner,107,['US']
+Soul Surfer,2011,43959,"['Family', 'Drama']",2011,Sean McNamara,112,['US']
+Avatar,2009,19995,"['Action', 'Adventure', 'Fantasy', 'Science Fiction']",2009,James Cameron,162,"['US', 'GB']"
+Avatar: The Way of Water,2022,76600,"['Science Fiction', 'Adventure', 'Action']",2022,James Cameron,192,['US']
+Wicked,2024,402431,"['Drama', 'Romance', 'Fantasy']",2024,Jon M. Chu,162,['US']
+The Visit,2015,298312,"['Horror', 'Mystery', 'Thriller']",2015,M. Night Shyamalan,94,['US']
+Saw,2004,176,"['Horror', 'Mystery', 'Crime']",2004,James Wan,103,['US']
+Saw II,2005,215,['Horror'],2005,Darren Lynn Bousman,93,['US']
+Saw III,2006,214,"['Horror', 'Thriller', 'Crime']",2006,Darren Lynn Bousman,108,['US']
+Haunted Mansion,2023,616747,"['Comedy', 'Drama', 'Fantasy', 'Horror']",2023,Justin Simien,123,['US']
+Fifty Shades of Grey,2015,216015,"['Drama', 'Romance', 'Thriller']",2015,Sam Taylor-Johnson,125,['US']
+The Wolf of Wall Street,2013,106646,"['Crime', 'Drama', 'Comedy']",2013,Martin Scorsese,180,['US']
+M3GAN,2022,536554,"['Science Fiction', 'Horror']",2022,Gerard Johnstone,102,['US']
+Out of My Mind,2024,971606,['Drama'],2024,Amber Sealey,107,['US']
+Rudy,1993,14534,"['Drama', 'History']",1993,David Anspaugh,114,['US']
+Pelé: Birth of a Legend,2016,245913,['Drama'],2016,Jeff Zimbalist,107,['US']
+"I, Tonya",2017,389015,"['Drama', 'Comedy']",2017,Craig Gillespie,120,['US']
+Saw X,2023,951491,"['Horror', 'Mystery']",2023,Kevin Greutert,118,['US']
+Good Will Hunting,1997,489,['Drama'],1997,Gus Van Sant,127,['US']
+The Boy Next Door,2015,241251,['Thriller'],2015,Rob Cohen,91,['US']
+It Ends with Us,2024,1079091,"['Drama', 'Romance']",2024,Justin Baldoni,131,['US']
+He's Just Not That Into You,2009,10184,"['Comedy', 'Romance', 'Drama']",2009,Ken Kwapis,129,['US']
+The Sixth Sense,1999,745,"['Mystery', 'Thriller', 'Drama']",1999,M. Night Shyamalan,107,['US']
+The Holiday,2006,1581,"['Comedy', 'Romance']",2006,Nancy Meyers,136,['US']
+Smile 2,2024,1100782,"['Horror', 'Mystery']",2024,Parker Finn,127,['US']
+Waves,2019,533444,"['Romance', 'Drama']",2019,Trey Edward Shults,135,"['CA', 'US']"
+The Line,2023,931107,['Drama'],2024,Ethan Berger,100,['US']
+Obsessed,2009,17335,"['Drama', 'Thriller']",2009,Steve Shill,108,['US']
+"Extremely Wicked, Shockingly Evil and Vile",2019,457799,"['Drama', 'Crime']",2019,Joe Berlinger,111,['US']
+Knives Out,2019,546554,"['Comedy', 'Crime', 'Mystery']",2019,Rian Johnson,131,['US']
+Hachi: A Dog's Tale,2009,28178,"['Drama', 'Family']",2009,Lasse Hallström,93,"['GB', 'US']"
+Hillbilly Elegy,2020,592984,['Drama'],2020,Ron Howard,117,['US']
+The Blind Side,2009,22881,['Drama'],2009,John Lee Hancock,129,['US']
+"McFarland, USA",2015,228203,"['Drama', 'Family']",2015,Niki Caro,128,['US']
+The Founder,2016,310307,"['Drama', 'History']",2016,John Lee Hancock,115,"['GR', 'US']"
+National Treasure,2004,2059,"['Adventure', 'Action', 'Thriller', 'Mystery']",2004,Jon Turteltaub,131,['US']
+Rocky,1976,1366,['Drama'],1976,John G. Avildsen,120,['US']
+Creed III,2023,677179,"['Drama', 'Action']",2023,Michael B. Jordan,116,['US']
+A Dog's Purpose,2017,381289,"['Adventure', 'Comedy', 'Fantasy', 'Family', 'Drama']",2017,Lasse Hallström,100,"['CA', 'IN', 'US']"
+Babe,1995,9598,"['Fantasy', 'Drama', 'Comedy', 'Family']",1995,Chris Noonan,92,"['AU', 'US', 'GB']"
+Charlotte's Web,2006,9986,"['Comedy', 'Family', 'Fantasy']",2006,Gary Winick,97,"['DE', 'US']"
+Earth to Echo,2014,238603,"['Family', 'Adventure', 'Science Fiction']",2014,Dave Green,89,['US']
+Charlie and the Chocolate Factory,2005,118,"['Adventure', 'Comedy', 'Family', 'Fantasy']",2005,Tim Burton,115,"['GB', 'US']"
+Willy Wonka & the Chocolate Factory,1971,252,"['Family', 'Fantasy', 'Comedy']",1971,Mel Stuart,99,['US']
+Max,2015,272878,"['Adventure', 'Drama', 'Family']",2015,Boaz Yakin,111,['US']
+Free Willy,1993,1634,"['Family', 'Adventure', 'Drama']",1993,Simon Wincer,112,['US']
+mid90s,2018,437586,"['Drama', 'Comedy']",2018,Jonah Hill,86,['US']
+Anora,2024,1064213,"['Drama', 'Comedy', 'Romance']",2024,Sean Baker,139,['US']
+The Little Mermaid,2023,447277,"['Adventure', 'Family', 'Fantasy', 'Romance']",2023,Rob Marshall,135,['US']
+Hamilton,2020,556574,"['History', 'Drama']",2020,Thomas Kail,160,['US']
+Frozen II,2019,330457,"['Family', 'Animation', 'Adventure', 'Comedy', 'Fantasy']",2019,Jennifer Lee,103,['US']
+Death of a Unicorn,2025,1153714,"['Horror', 'Fantasy', 'Comedy']",2025,Alex Scharfman,107,['US']
+Little Miss Sunshine,2006,773,"['Comedy', 'Drama']",2006,Jonathan Dayton,102,['US']
+Hereditary,2018,493922,"['Horror', 'Mystery', 'Thriller']",2018,Ari Aster,128,"['US', 'GB']"
+The Shawshank Redemption,1994,278,"['Drama', 'Crime']",1994,Frank Darabont,142,['US']
+Grease,1978,621,"['Romance', 'Comedy']",1978,Randal Kleiser,110,['US']
+Top Gun,1986,744,"['Action', 'Drama']",1986,Tony Scott,110,['US']
+The Princess Bride,1987,2493,"['Adventure', 'Family', 'Fantasy', 'Comedy', 'Romance']",1987,Rob Reiner,99,['US']
+The Little Mermaid,1989,10144,"['Animation', 'Family', 'Fantasy']",1989,John Musker,83,['US']
+Selena,1997,16052,"['Drama', 'Music', 'History']",1997,Gregory Nava,127,['US']
+High School Musical,2006,10947,"['Comedy', 'Drama', 'Family', 'Music', 'Romance', 'TV Movie']",2006,Kenny Ortega,98,['US']
+High School Musical 2,2007,13649,"['Comedy', 'Drama', 'Family', 'Music', 'Romance', 'TV Movie']",2007,Kenny Ortega,111,['US']
+High School Musical 3: Senior Year,2008,11887,"['Comedy', 'Romance', 'Drama', 'Family', 'Music']",2008,Kenny Ortega,117,['US']
+WALL·E,2008,10681,"['Animation', 'Family', 'Science Fiction']",2008,Andrew Stanton,98,['US']
+Twilight,2008,8966,"['Fantasy', 'Drama', 'Romance']",2008,Catherine Hardwicke,122,"['GB', 'US']"
+Marley & Me,2008,14306,"['Comedy', 'Family']",2008,David Frankel,115,['US']
+Princess Protection Program,2009,19458,"['Family', 'TV Movie', 'Comedy']",2009,Allison Liddi-Brown,89,['US']
+The Twilight Saga: New Moon,2009,18239,"['Adventure', 'Fantasy', 'Drama', 'Romance']",2009,Chris Weitz,131,['US']
+Flipped,2010,43949,"['Romance', 'Drama']",2010,Rob Reiner,89,['US']
+Diary of a Wimpy Kid,2010,33217,"['Comedy', 'Family']",2010,Thor Freudenthal,92,"['GB', 'US']"
+Tinker Bell and the Great Fairy Rescue,2010,44683,"['Animation', 'Adventure', 'Family', 'Fantasy']",2010,Bradley Raymond,76,"['IN', 'US']"
+Tinker Bell and the Pirate Fairy,2014,175112,"['Animation', 'Family']",2014,Peggy Holmes,78,['US']
+Tinker Bell and the Lost Treasure,2009,25475,"['Animation', 'Family', 'Adventure', 'Fantasy']",2009,Klay Hall,81,"['IN', 'US']"
+Secret of the Wings,2012,75258,"['Animation', 'Family', 'Fantasy', 'Adventure']",2012,Peggy Holmes,75,"['IN', 'US']"
+Tinker Bell,2008,13179,"['Animation', 'Family', 'Adventure', 'Fantasy']",2008,Bradley Raymond,78,"['IN', 'US']"
+Rio,2011,46195,"['Animation', 'Adventure', 'Comedy', 'Family']",2011,Carlos Saldanha,96,['US']
+"Good Luck Charlie, It's Christmas!",2011,81440,"['Comedy', 'Family', 'Drama', 'TV Movie']",2011,Arlene Sanford,85,['US']
+Alvin and the Chipmunks: Chipwrecked,2011,55301,"['Comedy', 'Fantasy', 'Family', 'Music', 'Animation']",2011,Mike Mitchell,87,['US']
+Alvin and the Chipmunks,2007,6477,"['Comedy', 'Family', 'Fantasy']",2007,Tim Hill,92,['US']
+Alvin and the Chipmunks: The Squeakquel,2009,23398,"['Comedy', 'Family', 'Animation', 'Fantasy', 'Music']",2009,Betty Thomas,88,['US']
+Alvin and the Chipmunks: The Road Chip,2015,258509,"['Family', 'Comedy', 'Music', 'Adventure', 'Animation']",2015,Walt Becker,92,['US']
+Madagascar,2005,953,"['Family', 'Animation', 'Adventure', 'Comedy']",2005,Eric Darnell,86,['US']
+Madagascar: Escape 2 Africa,2008,10527,"['Family', 'Adventure', 'Animation', 'Comedy']",2008,Eric Darnell,89,['US']
+The Lorax,2012,73723,"['Animation', 'Family']",2012,Chris Renaud,86,"['US', 'JP']"
+The Odd Life of Timothy Green,2012,71864,"['Fantasy', 'Drama', 'Comedy', 'Family']",2012,Peter Hedges,105,['US']
+Pitch Perfect,2012,114150,"['Comedy', 'Music', 'Romance']",2012,Jason Moore,112,['US']
+Epic,2013,116711,"['Animation', 'Adventure', 'Family', 'Fantasy']",2013,Chris Wedge,102,['US']
+Teen Beach Movie,2013,177888,"['Family', 'Music', 'TV Movie', 'Comedy']",2013,Jeffrey Hornaday,95,['US']
+Night at the Museum: Secret of the Tomb,2014,181533,"['Adventure', 'Comedy', 'Fantasy', 'Family']",2014,Shawn Levy,98,"['GB', 'US']"
+Minions,2015,211672,"['Family', 'Animation', 'Adventure', 'Comedy']",2015,Kyle Balda,91,['US']
+The Martian,2015,286217,"['Drama', 'Adventure', 'Science Fiction']",2015,Ridley Scott,141,['US']
+Adventures in Babysitting,2016,360606,"['Comedy', 'Family', 'Adventure', 'TV Movie']",2016,John Schultz,95,['US']
+Trolls,2016,136799,"['Family', 'Animation', 'Fantasy', 'Adventure', 'Comedy', 'Music']",2016,Mike Mitchell,92,['US']
+Moana,2016,277834,"['Adventure', 'Comedy', 'Family', 'Animation']",2016,John Musker,107,['US']
+Coco,2017,354912,"['Family', 'Animation', 'Music', 'Adventure']",2017,Lee Unkrich,105,['US']
+Sierra Burgess Is a Loser,2018,462919,"['Comedy', 'Drama', 'Romance']",2018,Ian Samuels,105,['US']
+The Hate U Give,2018,470044,"['Crime', 'Drama']",2018,George Tillman Jr.,133,['US']
+Dumplin',2018,472734,"['Comedy', 'Drama']",2018,Anne Fletcher,110,['US']
+After,2019,537915,"['Romance', 'Drama']",2019,Jenny Gage,106,['US']
+YES DAY,2021,638597,"['Family', 'Comedy']",2021,Miguel Arteta,86,['US']
+The Fallout,2021,795514,['Drama'],2021,Megan Park,96,['US']
+Luca,2021,508943,"['Animation', 'Comedy', 'Fantasy', 'Adventure', 'Family']",2021,Enrico Casarosa,95,['US']
+He's All That,2021,347626,"['Comedy', 'Romance']",2021,Mark Waters,91,['US']
+Top Gun: Maverick,2022,361743,"['Action', 'Drama']",2022,Joseph Kosinski,131,['US']
+Airplane!,1980,813,['Comedy'],1980,Jim Abrahams,88,['US']
+Kubo and the Two Strings,2016,313297,"['Animation', 'Adventure', 'Family']",2016,Travis Knight,102,['US']
+My Neighbor Totoro,1988,8392,"['Fantasy', 'Animation', 'Family']",1988,Hayao Miyazaki,86,['JP']
+Onward,2020,508439,"['Family', 'Comedy', 'Adventure', 'Animation', 'Fantasy']",2020,Dan Scanlon,102,['US']
+Puss in Boots,2011,417859,"['Animation', 'Family', 'Fantasy', 'Adventure', 'Comedy', 'Action']",2011,Chris Miller,90,['US']
+Mr. Popper's Penguins,2011,58224,"['Comedy', 'Family']",2011,Mark Waters,94,['US']
+Night at the Museum,2006,1593,"['Action', 'Adventure', 'Comedy', 'Family', 'Fantasy']",2006,Shawn Levy,108,"['US', 'GB']"
+Daddy Day Care,2003,10708,"['Comedy', 'Family']",2003,Steve Carr,92,['US']
+The Pacifier,2005,10022,"['Comedy', 'Family', 'Action']",2005,Adam Shankman,95,['US']
+Jinxed,2013,246569,"['Family', 'Fantasy', 'Comedy', 'TV Movie']",2013,Stephen Herek,70,[]
+Holes,2003,8326,"['Adventure', 'Family', 'Drama', 'Comedy']",2003,Andrew Davis,117,['US']
+Christopher Robin,2018,420814,"['Adventure', 'Comedy', 'Family', 'Fantasy']",2018,Marc Forster,104,"['GB', 'US']"
+Paddington,2014,116149,"['Comedy', 'Adventure', 'Family']",2014,Paul King,95,"['FR', 'GB', 'US']"
+Peter Rabbit,2018,381719,"['Animation', 'Adventure', 'Family']",2018,Will Gluck,93,"['AU', 'US']"
+One Hundred and One Dalmatians,1961,12230,"['Adventure', 'Animation', 'Comedy', 'Family']",1961,Clyde Geronimi,79,['US']
+Love & Basketball,2000,14736,"['Comedy', 'Drama', 'Romance']",2000,Gina Prince-Bythewood,124,['US']
+Jumanji: The Next Level,2019,512200,"['Adventure', 'Comedy', 'Fantasy']",2019,Jake Kasdan,123,['US']
+Jumanji: Welcome to the Jungle,2017,353486,"['Adventure', 'Comedy', 'Fantasy', 'Action', 'Family']",2017,Jake Kasdan,119,['US']
+Paul Blart: Mall Cop,2009,14560,"['Action', 'Adventure', 'Comedy', 'Family']",2009,Steve Carr,91,['US']
+Zootopia,2016,269149,"['Animation', 'Adventure', 'Family', 'Comedy']",2016,Byron Howard,109,['US']
+Balto,1995,21032,"['Family', 'Animation', 'Adventure']",1995,Simon Wells,78,['US']
+The Jungle Book,2016,9325,"['Family', 'Animation', 'Adventure']",1967,Wolfgang Reitherman,78,['US']
+Encanto,2021,568124,"['Animation', 'Comedy', 'Family', 'Fantasy']",2021,Byron Howard,102,['US']
+Sing,2016,335797,"['Family', 'Comedy', 'Music', 'Animation']",2016,Garth Jennings,107,"['JP', 'US']"
+Happy Feet,2006,9836,"['Animation', 'Comedy', 'Family']",2006,George Miller,108,"['AU', 'US']"
+Happy Feet Two,2011,65759,"['Animation', 'Comedy', 'Family']",2011,George Miller,99,"['AU', 'US']"
+Chicken Little,2005,9982,"['Animation', 'Family', 'Comedy']",2005,Mark Dindal,81,['US']
+The Lego Movie 2: The Second Part,2019,280217,"['Action', 'Adventure', 'Animation', 'Comedy', 'Family']",2019,Mike Mitchell,107,"['CA', 'DK', 'US']"
+The Emoji Movie,2017,378236,"['Animation', 'Family', 'Comedy']",2017,Tony Leondis,86,['US']
+Phineas and Ferb the Movie: Candace Against the Universe,2020,594328,"['Family', 'Animation', 'Science Fiction', 'Comedy']",2020,Dan Povenmire,85,['US']
+Phineas and Ferb The Movie: Across the 2nd Dimension,2011,71689,"['Animation', 'Comedy', 'Family', 'TV Movie', 'Science Fiction', 'Adventure', 'Action', 'Music']",2011,Robert Hughes,77,['US']
+Phineas and Ferb: Summer Belongs to You!,2010,466852,"['Animation', 'Family', 'Comedy', 'Adventure']",2010,Dan Povenmire,44,['US']
+Phineas and Ferb: Last Day of Summer,2015,458617,"['Animation', 'Family', 'Comedy', 'Science Fiction', 'TV Movie']",2015,Sue Perrotto,44,[]
+Lightyear,2022,718789,"['Animation', 'Science Fiction', 'Family', 'Adventure']",2022,Angus MacLane,105,['US']
+Hugo,2011,44826,"['Adventure', 'Drama', 'Family']",2011,Martin Scorsese,126,"['GB', 'US']"
+The BFG,2016,15433,"['Animation', 'Family', 'Fantasy']",1989,Brian Cosgrove,87,['GB']
+A Wrinkle in Time,2018,407451,"['Adventure', 'Science Fiction', 'Family', 'Fantasy']",2018,Ava DuVernay,109,['US']
+Pete's Dragon,2016,294272,"['Adventure', 'Family', 'Fantasy']",2016,David Lowery,103,['US']
+The Fox and the Hound,1981,10948,"['Adventure', 'Animation', 'Drama', 'Family']",1981,Richard Rich,82,['US']
+Brother Bear,2003,10009,"['Adventure', 'Animation', 'Family']",2003,Aaron Blaise,85,['US']
+Akeelah and the Bee,2006,13751,['Drama'],2006,Doug Atchison,112,['US']
+Coach Carter,2005,7214,"['Drama', 'History']",2005,Thomas Carter,136,"['DE', 'US']"
+The Piano,1993,713,"['Drama', 'Romance']",1993,Jane Campion,120,"['NZ', 'AU', 'FR']"
+Air,2023,964980,"['Drama', 'History']",2023,Ben Affleck,111,['US']
+Planet 51,2009,16866,"['Animation', 'Family', 'Comedy', 'Science Fiction', 'Adventure']",2009,Jorge Blanco,91,"['ES', 'GB', 'US']"
+Spooky Buddies,2011,70587,"['Comedy', 'Family', 'Mystery', 'TV Movie']",2011,Robert Vince,88,"['CA', 'US']"
+Air Buddies,2006,9973,"['Adventure', 'Comedy', 'Family']",2006,Robert Vince,80,['US']
+Snow Buddies,2008,14059,"['Family', 'Adventure']",2008,Robert Vince,87,"['CA', 'US']"
+Santa Buddies,2009,24833,"['Family', 'Adventure']",2009,Robert Vince,88,"['CA', 'US']"
+Super Buddies,2013,149910,"['Family', 'Comedy']",2013,Robert Vince,81,['US']
+Space Buddies,2009,14749,"['Comedy', 'Adventure', 'Drama', 'Family']",2009,Robert Vince,84,"['CA', 'US']"
+Treasure Buddies,2012,78047,"['Adventure', 'Family']",2012,Robert Vince,93,"['CA', 'US']"
+Hop,2011,50359,"['Animation', 'Comedy', 'Family']",2011,Tim Hill,95,"['JP', 'US']"
+Arthur Christmas,2011,51052,"['Drama', 'Animation', 'Family', 'Comedy']",2011,Sarah Smith,97,"['GB', 'US']"
+Klaus,2019,508965,"['Animation', 'Family', 'Adventure', 'Comedy', 'Fantasy']",2019,Sergio Pablos,96,['ES']
+Rise of the Guardians,2012,81188,"['Animation', 'Family', 'Fantasy']",2012,Peter Ramsey,97,['US']
+Kung Fu Panda 2,2011,49444,"['Animation', 'Family', 'Comedy']",2011,Jennifer Yuh Nelson,91,['US']
+Kung Fu Panda 3,2016,140300,"['Action', 'Adventure', 'Animation', 'Comedy', 'Family']",2016,Jennifer Yuh Nelson,95,"['CN', 'US']"
+The Boogeyman,2023,532408,['Horror'],2023,Rob Savage,99,['US']
+Countdown,2019,599975,"['Horror', 'Thriller']",2019,Justin Dec,90,['US']
+Pitch Perfect 2,2015,254470,"['Comedy', 'Music']",2015,Elizabeth Banks,115,['US']
+Despicable Me,2010,20352,"['Family', 'Comedy', 'Animation']",2010,Pierre Coffin,95,['US']
+Knock at the Cabin,2023,631842,"['Horror', 'Mystery', 'Thriller']",2023,M. Night Shyamalan,100,['US']
+El Mariachi,1992,9367,"['Action', 'Crime', 'Thriller']",1993,Robert Rodriguez,81,['US']
+Shiva Baby,2020,664300,"['Comedy', 'Drama']",2021,Emma Seligman,78,['US']
+Despicable Me 3,2017,324852,"['Action', 'Animation', 'Comedy', 'Family', 'Adventure']",2017,Kyle Balda,90,['US']
+Penguins of Madagascar,2014,270946,"['Family', 'Animation', 'Adventure', 'Comedy']",2014,Simon J. Smith,92,['US']
+G-Force,2009,19585,"['Family', 'Fantasy', 'Action', 'Adventure', 'Comedy']",2009,Hoyt Yeatman,88,['US']
+Final Destination,2000,9532,['Horror'],2000,James Wong,98,['US']
+Prisoners,2013,146233,"['Drama', 'Thriller', 'Crime']",2013,Denis Villeneuve,153,['US']
+The Collector,2009,21407,"['Horror', 'Thriller']",2009,Marcus Dunstan,90,['US']
+Dolphin Tale,2011,62837,"['Drama', 'Family']",2011,Charles Martin Smith,113,['US']
+Dolphin Tale 2,2014,227735,"['Family', 'Drama']",2014,Charles Martin Smith,107,['US']
+Casino,1995,524,"['Crime', 'Drama']",1995,Martin Scorsese,179,"['FR', 'US']"
+Inglourious Basterds,2009,16869,"['Drama', 'Thriller', 'War']",2009,Quentin Tarantino,153,"['DE', 'US']"
+Django Unchained,2012,68718,"['Drama', 'Western']",2012,Quentin Tarantino,165,['US']
+Step Sisters,2018,431072,['Comedy'],2018,Charles Stone III,104,['US']
+Your Place or Mine,2023,703451,"['Romance', 'Comedy']",2023,Aline Brosh McKenna,109,['US']
+The Princess and the Frog,2009,10198,"['Animation', 'Romance', 'Fantasy', 'Family']",2009,Ron Clements,98,['US']
+The Cutting Edge,1992,16562,"['Romance', 'Comedy', 'Drama']",1992,Paul Michael Glaser,101,['US']
